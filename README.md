@@ -6,4 +6,4 @@ Data una lista della spesa, stampare sulla pagina (anche brutalmente, basta che 
 ## Svolgimento
 
 1. creare un array per la lista della spesa
-2. 
+2. creo un ciclo while per stampare singolarmente ogni elemento nella pagina
